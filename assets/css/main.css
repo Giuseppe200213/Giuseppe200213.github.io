@@ -8601,3 +8601,8 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+			/* Personalizzazione colore Titolo Principale */
+.banner h1 {
+    color: #006400 !important;
+}
